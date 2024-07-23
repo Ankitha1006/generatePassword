@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    width: 1253px;
+    height: 678px;
+    top: -639px;
+    left: 169px;
+    padding: 64px 61px 64px 61px;
+    text-align: center;
+    background: rgba(28, 28, 28, 1);  
+}
+
+.box{
+    padding:20px;
+    width: 550px;
+    height: 500px;
+    top: 64px;
+    left: 642px;
+    background: rgba(236, 253, 245, 1);
+}
+.abc{
+    width: 191px;
+    height: 42px;
+    top: 284px;
+    left: 52px;
+    padding: 9px 17px 9px 15px;
+    gap: 12px;
+    border-radius: 6px ;
+    background: rgba(16, 185, 129, 1);
+}
+
+#word{
+    color: green;
+}
+
+.again{
+    color: rgba(107, 114, 128, 1);
+}
+
+.line{
+    border: 1px solid rgba(213, 212, 216, 1);
+    width: 500px;
+    top: 361px;
+    left: 52px;
+    margin:30px;
+}
+
+.passwordOne{
+   width: 211px;
+    height: 39px;
+    top: 396px;
+    left: 52px;
+    border-radius: 6px;
+    background: rgba(39, 53, 73, 1);
+    color: rgba(85, 249, 145, 1);  
+}
+
+.passwordTwo{
+   width: 211px;
+    height: 39px;
+    top: 396px;
+    left: 52px;
+    border-radius: 6px;
+    background: rgba(39, 53, 73, 1);
+    color: rgba(85, 249, 145, 1);  
+}
+
